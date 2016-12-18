@@ -22,6 +22,6 @@ LIST.txt : <br>
 ![LIST file](img/list.png)
 
 <br>
-OBJECT.txt : <br
+OBJECT.txt : <br>
 ![OBJECT code](img/object_code.png)
 
