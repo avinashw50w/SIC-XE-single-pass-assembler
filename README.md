@@ -7,7 +7,7 @@
 * Run the SIC.cpp file using any C++ compiler.
 
 
-**Note : ** The current program takes assembly code in file INPUT1.txt as input.
+*Note : * The current program takes assembly code in file INPUT1.txt as input.
 
 * The LIST.txt contains the generated list of object code.
 * The MODIFY.txt contains the modifications on the object code.
